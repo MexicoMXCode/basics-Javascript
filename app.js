@@ -637,3 +637,5 @@ for(var a=0; a<10; a++){
 }
 
 console.log('GLOBALES: '+a,b,c); */
+
+//solo quita los comentarios
